@@ -1,0 +1,15 @@
+.jumbotron h1 {
+  color: #a1d6e2;
+}
+
+.jumbotron p, .panel-title, .well {
+  color: #1995ad;
+}
+
+blockquote, .panel-body {
+  color: #b38867;
+}
+
+.panel .panel-heading, .well {
+  background-color: #f1f1f2;
+}
